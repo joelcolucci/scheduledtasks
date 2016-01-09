@@ -60,3 +60,9 @@ target/
 
 # Virtual Environment
 venv/
+
+# Celery Schedule DB
+celerybeat-schedule.db
+
+# Redis DB dump
+dump.rdb
